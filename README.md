@@ -45,3 +45,8 @@ Input file description:
 First line indicates the start point for the Bot, second line termination point, 3rd
 line onwards represent the layout matrix.
 
+How to run:
+Compile both the client and implementation file separetly.
+Then link both the files.
+Then run the executable file.
+
