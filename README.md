@@ -1,6 +1,10 @@
 # Bot-Matrix-problem
 Will find the path for bot to deliver food from the specified exit door, of the kitchen with multiple exit doors to the specified table.
 
+The files with suffix "_bfs_dfs" are used to find the solutions in both bfs and dfs algorithms. If you use the header, client and implementation files with "_bfs_dfs" suffix, two output files will be created.
+1) outbfs.txt - Solution using bfs algorithm
+2) outbfs.txt - Solution using dfs algorithm
+
 A particular ‘RPA’ firm is in the process of developing a restaurant which has bot 
 waiters. Bot needs to deliver the food from the specified exit door, of the kitchen 
 with multiple exit doors to the specified table.
@@ -49,4 +53,9 @@ How to run:
 Compile both the client and implementation file separetly.
 Then link both the files.
 Then run the executable file.
+
+
+Note:
+Don't mix up the files with brute force algorithm and files with "_bfs_dfs" algorithm.
+Remember to see the suufix of the file names and then run the necessary files appropriately.
 
