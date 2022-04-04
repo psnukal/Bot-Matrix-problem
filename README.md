@@ -5,6 +5,8 @@ The files with suffix "_bfs_dfs" are used to find the solutions in both bfs and 
 1) outbfs.txt - Solution using bfs algorithm
 2) outbfs.txt - Solution using dfs algorithm
 
+Use the same input file (input.txt) for both of them.
+
 A particular ‘RPA’ firm is in the process of developing a restaurant which has bot 
 waiters. Bot needs to deliver the food from the specified exit door, of the kitchen 
 with multiple exit doors to the specified table.
@@ -58,4 +60,6 @@ Then run the executable file.
 Note:
 Don't mix up the files with brute force algorithm and files with "_bfs_dfs" algorithm.
 Remember to see the suufix of the file names and then run the necessary files appropriately.
+Use the same input file (input.txt) for both of them.
+
 
